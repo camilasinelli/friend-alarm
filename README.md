@@ -1,2 +1,2 @@
 # friend-alarm
-teat
+Android App where you can add your friends by searching their usernames and have the option to send them a virtual hug, kiss, or fist bump. You can change your relationship to the people added on your friends list. Once you send your friend a feature, you will be waiting for another feature back from them. To make new friends and expand your friends list, there is a matching feature that shows the percentage of how well you match with another person.
