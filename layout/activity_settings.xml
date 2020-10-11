@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C4C4E3"
+    tools:context=".Settings">
+
+    <ImageView
+        android:id="@+id/imageView22"
+        android:layout_width="346dp"
+        android:layout_height="739dp"
+        app:srcCompat="@drawable/screen_shot_2020_10_10_at_5_28_25_pm"
+        tools:layout_editor_absoluteX="-5dp"
+        tools:layout_editor_absoluteY="-5dp" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif"
+        android:text="Friend Alarm"
+        android:textSize="29sp"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="128dp" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:text="Join your friends!"
+        android:textSize="23sp"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="167dp" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:text="Switch account"
+        android:textSize="23sp"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="302dp" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:text="Log off"
+        android:textSize="23sp"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="350dp" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:text="Your profile"
+        android:textSize="23sp"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="399dp" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:text="Settings"
+        android:textSize="23sp"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="557dp" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:text="Rate us"
+        android:textSize="23sp"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="604dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
